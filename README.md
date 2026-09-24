@@ -35,7 +35,7 @@ Lab1Web/
 Membuat file `index.html` dengan kerangka struktur dokumen HTML5 standar yang mencakup deklarasi `<!DOCTYPE html>`, tag `<html>`, `<head>`, `<title>`, dan `<body>`.
 
 ---
-<img width="1272" height="387" alt="Screenshot 2026-09-23 193430" src="https://github.com/user-attachments/assets/f6cdc05a-2130-4eed-a5d2-d9ff292a79b4" />
+
 
 <img width="1915" height="1140" alt="Screenshot 2026-09-23 194443" src="https://github.com/user-attachments/assets/98bcda84-72ed-4a9b-8a0d-bebfbcef956c" />
 
